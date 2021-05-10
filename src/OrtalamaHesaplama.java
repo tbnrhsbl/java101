@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class OrtalamaHesaplama {
 
     public static void main(String[] args) {
         //Değikenler oluşturuldu
@@ -34,7 +34,7 @@ public class Main {
         //Durum belirteçleri
         boolean durum = sonuc >= 60;
         boolean durum1 = !(sonuc >= 60);
-        String sonuc1 = (durum) ? "Geçti" : "Kaldı.";
+        String sonuc1 = (durum) ? "Geçti" : "Kaldı." ;
         System.out.println(sonuc1);
 
 
