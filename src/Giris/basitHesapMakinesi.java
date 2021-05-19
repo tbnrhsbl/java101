@@ -1,7 +1,7 @@
 package Giris;
 import java.util.Scanner;
 
-public class BasitHesapMakinesi {
+public class basitHesapMakinesi {
     public static void main(String[]args){
         int select,n1,n2;
         Scanner girdi = new Scanner(System.in);

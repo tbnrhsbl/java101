@@ -1,7 +1,7 @@
 package Giris;
 import java.util.Scanner;
 
-public class UcgenCevresiHesaplama {
+public class ucgenCevresiHesaplama {
     public static void main(String[]args){
 
         double a,b,c, uzunluk,alan;

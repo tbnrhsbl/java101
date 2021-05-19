@@ -1,7 +1,7 @@
 package Giris;
 import java.util.Scanner;
 
-public class TaksimetreHesaplama {
+public class taksimetreHesaplama {
     public static void main(String[] args) {
         //per= kilometre
         int km;

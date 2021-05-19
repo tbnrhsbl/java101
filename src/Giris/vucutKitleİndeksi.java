@@ -1,6 +1,6 @@
 package Giris;
 import java.util.Scanner;
-public class VucutKitleİndeksi {
+public class vucutKitleİndeksi {
     public static void main(String[]args){
 
         double boy , kilo , sonuc ;
