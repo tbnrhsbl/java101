@@ -157,37 +157,11 @@ public class burcBulma {
                 isError = true;
             }
         }
-
-
-
-
-
-
         if (isError) {
             System.out.println("Yanlış giriş yaptınız, tekrar deneyiniz.");
         } else {
             System.out.println("Burcunuz : " + burc);
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
        /*
         switch (month) {
             case 1:
