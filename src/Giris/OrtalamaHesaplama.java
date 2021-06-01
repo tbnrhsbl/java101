@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class ortalamaHesaplama {
+public class OrtalamaHesaplama {
 
     public static void main(String[] args) {
         //Değikenler oluşturuldu

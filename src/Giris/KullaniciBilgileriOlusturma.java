@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class kullaniciBilgileriOlusturma {
+public class KullaniciBilgileriOlusturma {
 
     public static void main(String[] args) {
         String userName, password, newpassword;

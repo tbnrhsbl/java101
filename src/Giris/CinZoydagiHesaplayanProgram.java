@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class cinZoydagiHesaplayanProgram {
+public class CinZoydagiHesaplayanProgram {
     public static void main(String[] args) {
 
         int dogumYili;

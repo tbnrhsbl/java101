@@ -1,7 +1,7 @@
 package Giris;
 import java.util.Scanner;
 
-public class hipotenusHesaplama {
+public class HipotenusHesaplama {
     public static void main(String[]args){
 
         //Değişkenlerimizi oluşturalım.

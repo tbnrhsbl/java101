@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class kdvHesaplama {
+public class KdvHesaplama {
     public static void main(String[] args) {
         double
                 tutar, kdvOran1 = 0.18, kdvOran2 = 0.8, kdvTutar1, kdvTutar2, kdvliTutar1, kdvliTutar2;

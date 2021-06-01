@@ -1,7 +1,7 @@
 package Giris;
 import java.util.Scanner;
 
-public class havayaGoreEtkinlikProgrami {
+public class HavayaGoreEtkinlikProgrami {
     public static void main(String []args){
         int heat;
 

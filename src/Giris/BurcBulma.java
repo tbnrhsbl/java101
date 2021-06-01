@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class burcBulma {
+public class BurcBulma {
     public static void main(String[] args) {
         int day, month;
         String burc = "";

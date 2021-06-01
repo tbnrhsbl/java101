@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class ortalamaHesaplama2 {
+public class OrtalamaHesaplama2 {
     public static void main(String[] args) {
         int turkce, tarih, mat, fizik, kimya, muzik;
 

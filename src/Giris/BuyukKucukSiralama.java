@@ -2,7 +2,7 @@ package Giris;
 
 import java.util.Scanner;
 
-public class buyukKucukSiralama {
+public class BuyukKucukSiralama {
 
     public static void main(String[] args) {
         int a, b, c;
